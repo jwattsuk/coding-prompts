@@ -1,9 +1,9 @@
-Instructions for GitHub Copilot
+# Instructions for GitHub Copilot
 
 
-Java
+# Java
 
-#Code Layout
+## Code Layout
 
 - Use the final keyword on all method parameters.
 - Do not use the final keyword on local variables.
@@ -53,7 +53,7 @@ Java
 - For data type operations, method parameters should be ordered as: data, properties, helpers, context.
 - For copy-type methods, parameters should follow a from-where-to-where order.
 
-#Spring
+## Spring
 
 ### Autowiring
 
